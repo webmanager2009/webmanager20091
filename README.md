@@ -1,31 +1,3 @@
-### Hi there 👋
-
-<!--
-**webmanager2009/webmanager2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=webmanager2009&repo=github-readme-stats)](https://github.com/webmanager2009/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=webmanager2009&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/webmanager2009/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
 # New Document
 
 ### Hi there 👋
@@ -92,7 +64,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="https://github.com/Svitlana-Berezhna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Svitlana-Berezhna&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Svitlana-Berezhna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svitlana-Berezhna&layout=compact&langs_count=10&theme=default&hide_border=true" /></a> |
+| <a href="https://github.com/Svitlana-Berezhna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Svitlana-Berezhna&show_icons=true&theme=default&disable_animations=false&hide_border=true" alt="Svitlana Berezhna's github stats" /></a> | <a href="https://github.com/Svitlana-Berezhna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svitlana-Berezhna&layout=compact&langs_count=10&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
@@ -112,6 +84,5 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 <br />
 <br />
-
 
 
