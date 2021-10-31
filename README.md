@@ -168,7 +168,7 @@ Write a Java program that:
 - finds and displays to the console the difference between *number* number and number composed of the digits of the *number*, but taken in reverse order (for the specified example, the reverse number is 321).
 
 ---
-## Task № 1 - Calculator:
+# Task № 1 - Calculator:
 Write a Java program that:
 - describes a three-digit integer *number* number (*for example*, 123);
 - finds and displays to the console the difference between *number* number and number composed of the digits of the *number*, but taken in reverse order (for the specified example, the reverse number is 321).
