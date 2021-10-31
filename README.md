@@ -25,7 +25,7 @@ Write a Java program that calculates and displays to the console the amount of p
 	- Java Code Convention.
 	- Clean Code, Robert C. Martin.
 5) Watch the video <https://itvdn.com/ru/specialities/java-developer>.
-
+---
 # Homework № 2
 ## LEARNING OF OPERATORS
 
@@ -44,7 +44,7 @@ alt="Cat1"></a>
 	- Java Code Convention.
 	- Clean Code, Robert C. Martin.
 3) Keep watching the video <https://itvdn.com/ru/specialities/java-developer>.
-
+---
 # Homework № 3
 ## LEARNING OF METHODS AND PROCESSING LINE
 
@@ -79,7 +79,7 @@ Write a Java program that:
 Write a Java program that:
 - describes a method that finds and returns the first character of the word under the given number in the given string. Restriction: words in a line are separated only by spaces.
 - inputs some text and a word number, and then uses a method to process and outputs the result.
-
+---
 # Homework № 4
 ## LEARNING OF ARRAYS
 
@@ -109,7 +109,7 @@ Write a Java program that creates two arrays of different dimensions and then cr
 
 ## Task № 3
 Write a Java program that creates an array of any type and then determines the maximum and minimum values of the array elements and removes their duplicates.
-
+---
 # Homework № 5
 ## LEARNING OF CLASSES
 
@@ -123,7 +123,7 @@ Write a Java program in which:
 1) During the coding should be used Java coding conventions.
 2) Use the **Scanner** class to enter a percentage value from the keyboard to change the cost of books, author and year of publication for the selection of books.
 3) Search methods should return a new object of type **Books**, which encapsulates an array of found books (if the array is empty, then provide the output of the corresponding message).
-
+---
 # Homework № 6
 ## LEARNING OF OOP PRINCIPLES: INHERITANCE AND POLYMORPHISM
 
