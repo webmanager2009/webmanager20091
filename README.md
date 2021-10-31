@@ -146,3 +146,16 @@ Write a Java program in which:
 ## Requirements:
 1) During the coding should be used Java coding conventions.
 2) Use the **instanceof** operator to determine the type of shape.
+---
+# Homework № 7
+## LEARNING OF INTERFACES AND EXCEPTIONS HANDLING
+
+## Task № 1:
+Open the program created on Homework № 5 and make the following changes:
+- replace the *view()* method with the *toString()* method in the description of the **Book** class and change the code that used the *view()* method to appropriate applying of *toString()* method.
+- provide for handling incorrect data input by user through the exception handling mechanism (to do this, describe your exceptions). *For example*, you describe the **Validator** class, which contains methods for checking of something for something,  and use its methods to validate the entered values. If all is well, the program continues to work, but if the data is not correct, you throw an exception, and the code using validation should handle the exception.
+- supplement the **Books** class with methods of sorting the set of books by author alphabetically, by publisher in alphabetical order, by cost in descending order. Consider when sorting that the original set should not change, this only changes its presentation to the user, i.e. you need to apply copying an array of books before sorting.
+
+## Requirements:
+1) During the coding should be used Java coding conventions.
+2) Use the **Comparator** interface to describe the rule for comparing books by the specified criterion.
