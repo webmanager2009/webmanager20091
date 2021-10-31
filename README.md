@@ -167,6 +167,17 @@ Write a Java program that:
 - describes a three-digit integer *number* number (*for example*, 123);
 - finds and displays to the console the difference between *number* number and number composed of the digits of the *number*, but taken in reverse order (for the specified example, the reverse number is 321).
 
+* Реализовать программу калькулятор. Калькулятор должен выполнять операции:
+ * сложение, вычитание, умножение, деление, возведение в степень.
+ * При выполнении деления ввести проверку на 0.
+ * Если второй аргумент 0 нужно выкинуть исключение java.lang.IllegalStateException
+
+Implement calculator program. Calculator must perform operations:
+- addition, subtraction, multiplication, division, exponentiation.
+- When performing division, enter a check for 0.
+- If the second argument is 0, you need to throw java.lang.IllegalStateException
+
+
 ---
 # Task № 1 - Calculator:
 Write a Java program that:
