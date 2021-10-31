@@ -59,6 +59,7 @@ Write a Java program that inputs an integer, converts it to binary representatio
 2) Methods of data processing should not carry out the output of the result, it should be returned from methods.
 
 ## Additional tasks for those who wish:
+
 ## Task № 1:
 Write a Java program that:
 - inputs an integer variable and outputs the result of its processing;
@@ -78,3 +79,33 @@ Write a Java program that:
 Write a Java program that:
 - describes a method that finds and returns the first character of the word under the given number in the given string. Restriction: words in a line are separated only by spaces.
 - inputs some text and a word number, and then uses a method to process and outputs the result.
+
+# Homework № 4
+## LEARNING OF ARRAYS
+
+## Task № 1 - Processing without branchings:
+Write a Java program that creates an array of any type and then prints it to the console in forward and backward order.
+
+## Task № 2 - Creating a third array of known length:
+Write a Java program that creates two arrays of the same dimension, and then creates a third one of the same dimension and fills it with the pairwise sum of elements from the first two ones.
+
+## Task № 3 - Creating a third array of unknown length:
+Write a Java program that creates an array of any type, and then separates it into two ones: from positive and negative elements.
+
+## Requirements:
+1) During the coding should be used Java coding conventions.
+2) If possible, processing arrays to do in a separate method.
+3) The dimension of the array can be set explicitly or entered by typing from the keyboard.
+4) Fill the original arrays with random values (*for example*, use the  Math.random() method).
+5) For clarity of the completing the task, it is necessary to output the arrays before and after processing in cases where the original array changes.
+
+## Additional tasks for those who wish:
+
+## Task № 1
+Write a Java program that creates an array of any type, and then calculates the arithmetic mean of the array elements and the number of array elements that are greater than this arithmetic mean.
+
+## Task № 2
+Write a Java program that creates two arrays of different dimensions and then creates a third array as a concatenation of the two original ones.
+
+## Task № 3
+Write a Java program that creates an array of any type and then determines the maximum and minimum values of the array elements and removes their duplicates.
