@@ -26,7 +26,21 @@ Write a Java program that calculates and displays to the console the amount of p
 	- Clean Code, Robert C. Martin.
 5) Watch the video <https://itvdn.com/ru/specialities/java-developer>.
 
+# Homework № 2
+## LEARNING OF OPERATORS
+
+## Task № 1:
+Write a Java program that fills in with asterisks (*) and displays to the console the triangles  shown in the figure:
+
 <p align="center">
 <a href="https://github.com/webmanager2009/webmanager2009/blob/main/res/Untitled.jpg" title="Animated GIF cat"><img src="https://github.com/webmanager2009/webmanager2009/blob/main/res/Untitled.jpg"
-alt="Cat1" width="100%" height="100%"></a>
+alt="Cat1"></a>
 </p>
+
+## Requirements:
+1) During the coding should be used Java coding conventions.
+2) Keep reading books:
+	- Head First Java, O'Reilly.
+	- Java Code Convention.
+	- Clean Code, Robert C. Martin.
+3) Keep watching the video <https://itvdn.com/ru/specialities/java-developer>.
