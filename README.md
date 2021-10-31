@@ -25,4 +25,8 @@ Write a Java program that calculates and displays to the console the amount of p
 	- Java Code Convention.
 	- Clean Code, Robert C. Martin.
 5) Watch the video <https://itvdn.com/ru/specialities/java-developer>.
-============
+
+<p align="center">
+<a href="https://github.com/webmanager2009/webmanager2009/blob/main/res/Untitled.jpg" title="Animated GIF cat"><img src="https://github.com/webmanager2009/webmanager2009/blob/main/res/Untitled.jpg"
+alt="Cat1" width="20%" height="20%"></a>
+</p>
