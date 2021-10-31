@@ -159,3 +159,15 @@ Open the program created on Homework № 5 and make the following changes:
 ## Requirements:
 1) During the coding should be used Java coding conventions.
 2) Use the **Comparator** interface to describe the rule for comparing books by the specified criterion.
+
+# Homework № 1
+## Calculator
+
+## Task № 1 - Calculator:
+Write a Java program that:
+- describes a three-digit integer *number* number (*for example*, 123);
+- finds and displays to the console the difference between *number* number and number composed of the digits of the *number*, but taken in reverse order (for the specified example, the reverse number is 321).
+
+---
+# Homework № 2
+## LEARNING OF OPERATORS
