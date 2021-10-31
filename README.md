@@ -168,10 +168,9 @@ Implement calculator program. Calculator must perform operations:
 - If the second argument is 0, you need to throw java.lang.IllegalStateException
 
 ---
-# Task № 1 - Calculator:
-Implement calculator program. Calculator must perform operations:
-- addition, subtraction, multiplication, division, exponentiation.
-- When performing division, enter a check for 0.
-- If the second argument is 0, you need to throw java.lang.IllegalStateException
+# Task № 2
+## Point
+Implement a point class that describes a point in the x, y coordinate system - Point (x, y).
+The point object must have methods double Point#distanceTo(Point point) - the method must calculate the distance between two points
 
 ---
