@@ -44,3 +44,37 @@ alt="Cat1"></a>
 	- Java Code Convention.
 	- Clean Code, Robert C. Martin.
 3) Keep watching the video <https://itvdn.com/ru/specialities/java-developer>.
+
+# Homework № 3
+## LEARNING OF METHODS AND PROCESSING LINE
+
+## Task № 1:
+Write a Java program that inputs some string and prints to the console all the unique characters of this string. String processing is done in a separate method.
+
+## Task № 2:
+Write a Java program that inputs an integer, converts it to binary representation, storing it as a string, and prints the result to the console. The conversion is done in a separate method.
+
+## Requirements:
+1) During the coding should be used Java coding conventions.
+2) Methods of data processing should not carry out the output of the result, it should be returned from methods.
+
+## Additional tasks for those who wish:
+## Task № 1:
+Write a Java program that:
+- inputs an integer variable and outputs the result of its processing;
+- processing is a method that gets an integer, determines the last two digits and returns them as a string of characters in reverse order. *For example*, the number is 2546, the result is "64".
+
+## Task № 2:
+Write a Java program that:
+- inputs the height of the pyramid and passes it to the method for outputing the pyramid;
+- the method outputs to the console the pyramid of the obtained height (value in the range from 1 to 9). For example, for *height* = 3:
+
+<div align="center">1</div>
+<div align="center">121</div>
+<div align="center">12321</div>
+<div align="center">1234321</div>
+
+## Task № 3:
+Write a Java program that:
+- describes a method that finds and returns the first character of the word under the given number in the given string. Restriction: words in a line are separated only by spaces.
+- inputs some text and a word number, and then uses a method to process and outputs the result.
