@@ -28,5 +28,5 @@ Write a Java program that calculates and displays to the console the amount of p
 
 <p align="center">
 <a href="https://github.com/webmanager2009/webmanager2009/blob/main/res/Untitled.jpg" title="Animated GIF cat"><img src="https://github.com/webmanager2009/webmanager2009/blob/main/res/Untitled.jpg"
-alt="Cat1" width="20%" height="20%"></a>
+alt="Cat1" width="100%" height="100%"></a>
 </p>
