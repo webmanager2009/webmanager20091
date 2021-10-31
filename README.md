@@ -109,3 +109,17 @@ Write a Java program that creates two arrays of different dimensions and then cr
 
 ## Task № 3
 Write a Java program that creates an array of any type and then determines the maximum and minimum values of the array elements and removes their duplicates.
+
+# Homework № 5
+## LEARNING OF CLASSES
+
+## Task № 1:
+Write a Java program in which:
+- describe a well encapsulated **Book** class (ID, Title, Author, Publisher, Year of publication, Number of pages, Cost), i.e. private fields with accessor methods. Add a constructor to the class with all parameters. Add a *view()* method to the class  to display (output) the object.
+- describe the **Books** class, which will contain an array of objects (field) of the **Book** type; constructor that takes the size of an array and allocates memory for it; method of adding one book; method to display all books in an array; method of changing the cost of books by a specified number of percent; search method for all books of the specified author; search method for all books published after the specified year.
+- describe a class with a *main()* method, in which you enter the dimension of an array of books and create an object of type **Books**; create and add objects of type **Book** to an object of type **Books**; display a set of books to the console; use all other methods of class **Books**.
+
+## Requirements:
+1) During the coding should be used Java coding conventions.
+2) Use the **Scanner** class to enter a percentage value from the keyboard to change the cost of books, author and year of publication for the selection of books.
+3) Search methods should return a new object of type **Books**, which encapsulates an array of found books (if the array is empty, then provide the output of the corresponding message).
