@@ -123,3 +123,21 @@ Write a Java program in which:
 1) During the coding should be used Java coding conventions.
 2) Use the **Scanner** class to enter a percentage value from the keyboard to change the cost of books, author and year of publication for the selection of books.
 3) Search methods should return a new object of type **Books**, which encapsulates an array of found books (if the array is empty, then provide the output of the corresponding message).
+
+# Homework № 6
+## LEARNING OF OOP PRINCIPLES: INHERITANCE AND POLYMORPHISM
+
+## Task № 1:
+Write a Java program in which:
+- describe the **Shape** class(field *color*, constructor, overridden *toString()* method (a string like "class=...: color=..."), a method for calculating the area of a shape *calcArea()*, which returns a value of 0.0).
+- describe the **Circle** class as a subclass of **Shape**. The **Circle** class contains: field *radius*, constructor, overridden *toString()* and *calcArea()* methods.
+- describe the **Rectangle** class as a subclass of **Shape**. The **Rectangle** class contains: *width* and *height* fields, constructor, overridden *toString()* and *calcArea()* methods.
+- describe the **Triangle** class as a subclass of **Shape**. The **Triangle** class contains: fields ***a, b, c***; constructor, overridden *toString()* and  *calcArea()* methods.
+- describe the class **Main** with the *main()* method, in which create an array of shapes (four rectangles, three circles, two triangles) and display it to the console along with the area information of the shapes. Provide some method of the **Main** class to output the array of shapes.
+- add a method to the **Main** class for calculating the total area of all shapes of the created array.
+- add a method to the **Main** class for calculating the total area of a specific shape type in the created array.
+- add the call of the described methods to the *main()* method.
+
+## Requirements:
+1) During the coding should be used Java coding conventions.
+2) Use the **instanceof** operator to determine the type of shape.
