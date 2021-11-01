@@ -170,7 +170,7 @@ Implement calculator program. Calculator must perform operations:
 ---
 # Task № 2
 ## Point
-Implement a point class that describes a point in the x, y coordinate system - Point (x, y).
+Implement a Point class that describes a point in the x, y coordinate system - Point (x, y).
 - The point object must have methods double Point#distanceTo(Point point) - the method must calculate the distance between two points
 
 ---
