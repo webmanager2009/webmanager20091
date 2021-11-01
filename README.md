@@ -225,3 +225,9 @@ Implement a class that computes prime numbers up to N.
 Implement a method for counting unique characters in a string.
 
 ---
+# Task № 10
+## Brackets
+Implement methods for checking the correctness of open and closed parentheses.
+For example, ()(()((()))) - true, ()) – false
+
+---
