@@ -565,3 +565,12 @@ slide 13 of 14
 
 slide 14 of 14
 
+<p align="center">
+<a href="https://github.com/webmanager2009/webmanager2009/blob/main/res/Untitled.jpg" title="Animated GIF cat"><img src="https://github.com/webmanager2009/webmanager2009/blob/main/res/Untitled.jpg"
+alt="Cat1"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/webmanager2009/webmanager2009/blob/main/res/Untitled.jpg" title="Animated GIF cat"><img src="https://github.com/webmanager2009/webmanager2009/blob/main/res/Untitled.jpg"
+alt="Cat1"></a>
+</p>
