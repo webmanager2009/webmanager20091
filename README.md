@@ -178,6 +178,7 @@ Implement a Point class that describes a point in the x, y coordinate system - P
 ## Triangle
 Implement the Triangle class. The triangle must be described through points in the coordinate system.
 <div>The triangle object must have methods:</div>
+
 - boolean exists() - checks if the triangle exists or not
 - double area() - calculates the area of the triangle
 <div>If triangle doesn't exist, you need to throw java.lang.IllegalStateException</div>
