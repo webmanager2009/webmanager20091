@@ -289,5 +289,3 @@ You can move only on ones and only vertically or horizontally.
 # Task № 20
 ## Combine
 A one-dimensional array is given. It is necessary to find all possible variants of permutations of this array.
-
----
