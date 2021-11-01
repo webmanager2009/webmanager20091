@@ -228,6 +228,6 @@ Implement a method for counting unique characters in a string.
 # Task № 10
 ## Brackets
 <div>Implement methods for checking the correctness of open and closed parentheses.</div>
-<div>For example, ()(()((()))) - true, ()) – false</div>
+For example, ()(()((()))) - true, ()) – false
 
 ---
