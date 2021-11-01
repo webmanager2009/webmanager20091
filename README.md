@@ -566,11 +566,11 @@ slide 13 of 14
 slide 14 of 14
 
 <p align="center">
-<a href="https://github.com/webmanager2009/webmanager2009/blob/main/res/Untitled.jpg" title="Animated GIF cat"><img src="https://github.com/webmanager2009/webmanager2009/blob/main/res/Presentation_slide1.jpg"
+<a href="https://github.com/webmanager2009/webmanager2009/blob/main/Presentation_slide1.jpg" title="Animated GIF cat"><img src="https://github.com/webmanager2009/webmanager2009/blob/main/Presentation_slide1.jpg"
 alt="Cat1"></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/webmanager2009/webmanager2009/blob/main/res/Untitled.jpg" title="Animated GIF cat"><img src="https://github.com/webmanager2009/webmanager2009/blob/main/res/Presentation_slide1.jpg"
+<a href="https://github.com/webmanager2009/webmanager2009/blob/main/Presentation_slide1.jpg" title="Animated GIF cat"><img src="https://github.com/webmanager2009/webmanager2009/blob/main/Presentation_slide1.jpg"
 alt="Cat1"></a>
 </p>
