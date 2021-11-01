@@ -176,7 +176,7 @@ Implement calculator program. Calculator must perform operations:
 ---
 # Task № 3
 ## Triangle
-Implement the Triangle class. The triangle must be described through points in the coordinate system.
+<div>Implement the Triangle class. The triangle must be described through points in the coordinate system.</div>
 <div>The triangle object must have methods:</div>
 
 - boolean exists() - checks if the triangle exists or not
