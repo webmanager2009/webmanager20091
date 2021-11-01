@@ -164,14 +164,14 @@ Open the program created on Homework № 5 and make the following changes:
 ## Calculator
 Implement calculator program. Calculator must perform operations:
 - addition, subtraction, multiplication, division, exponentiation.
-- When performing division, enter a check for 0.
-- If the second argument is 0, you need to throw java.lang.IllegalStateException
+<div>When performing division, enter a check for 0.</div>
+<div>If the second argument is 0, you need to throw java.lang.IllegalStateException</div>
 
 ---
 # Task № 2
 ## Point
 Implement a Point class that describes a point in the x, y coordinate system - Point (x, y).
-- The point object must have methods double Point#distanceTo(Point point) - the method must calculate the distance between two points
+<div>The point object must have methods double Point#distanceTo(Point point) - the method must calculate the distance between two points</div>
 
 ---
 # Task № 3
