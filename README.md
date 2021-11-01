@@ -296,7 +296,6 @@ A one-dimensional array is given. It is necessary to find all possible variants 
 <a href="https://github.com/webmanager2009/webmanager2009/blob/main/Presentation_slide_1.jpg" title="Presentation slide № 1"><img src="https://github.com/webmanager2009/webmanager2009/blob/main/Presentation_slide_1.jpg"
 alt="Presentation slide № 1"></a>
 </p>
-
 <p align="center">
 <a href="https://github.com/webmanager2009/webmanager2009/blob/main/Presentation_slide_2.jpg" title="Presentation slide № 2"><img src="https://github.com/webmanager2009/webmanager2009/blob/main/Presentation_slide_2.jpg"
 alt="Presentation slide № 2"></a>
