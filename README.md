@@ -249,3 +249,9 @@ For example, [0, 1, 1] - false, [1, 1, 1] - true.
 For example, [0, 0, 0] - true, [1, 1, 1] - true, [0, 1, 1] - false.
 
 ---
+# Task № 14
+## Reverse Phrase
+<div>Sentence is given. You need to rearrange the words in the reverse order.</div>
+For example, "program and earn" -> "earn and program".
+
+---
