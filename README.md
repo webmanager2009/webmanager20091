@@ -273,3 +273,10 @@ A square array is given. You need to check that it has winning options for tic-t
 The method should return a list of all possible options for changing the bill.
 
 ---
+# Task № 18
+## Pool
+<div>A two-dimensional array filled with zeros and ones is given. It is necessary to define the largest set of ones.</div>
+<div>A set is a union of ones that are next to each other.</div>
+Ignore diagonal neighborhood.
+
+---
