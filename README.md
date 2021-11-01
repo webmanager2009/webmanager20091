@@ -165,7 +165,7 @@ Open the program created on Homework № 5 and make the following changes:
 Implement calculator program. Calculator must perform operations:
 - addition, subtraction, multiplication, division, exponentiation.
 <div>When performing division, enter a check for 0.</div>
-<div>If the second argument is 0, you need to throw java.lang.IllegalStateException.</div>
+<div>If the second argument is 0, it is necessary to throw java.lang.IllegalStateException.</div>
 
 ---
 # Task № 2
@@ -181,7 +181,7 @@ Implement calculator program. Calculator must perform operations:
 
 - boolean exists() - checks if the triangle exists or not;
 - double area() - calculates the area of the triangle.
-<div>If triangle doesn't exist, you need to throw java.lang.IllegalStateException.</div>
+<div>If triangle doesn't exist, it is necessary to throw java.lang.IllegalStateException.</div>
 
 ---
 # Task № 4
@@ -233,25 +233,25 @@ For example, ()(()((()))) - true, ()) – false.
 ---
 # Task № 11
 ## Array Contains One
-<div>An array of numbers with values 0 and 1 is given. You need to check that all values in the array are equal to 1.</div>
+<div>An array of numbers with values 0 and 1 is given. It is necessary to check that all values in the array are equal to 1.</div>
 <div>For example, [0, 1] - false, [1, 1] - true.</div>
 
 ---
 # Task № 12
 ## Sequence Array
-<div>An array of numbers with values 0 and 1 is given. You need to check that the array contains sequences of three or more ones.</div>
+<div>An array of numbers with values 0 and 1 is given. It is necessary to check that the array contains sequences of three or more ones.</div>
 For example, [0, 1, 1] - false, [1, 1, 1] - true.
 
 ---
 # Task № 13
 ## Mono Array
-<div>Numeric array is given. You need to check that all the values in the array are the same.</div>
+<div>Numeric array is given. It is necessary to check that all the values in the array are the same.</div>
 For example, [0, 0, 0] - true, [1, 1, 1] - true, [0, 1, 1] - false.
 
 ---
 # Task № 14
 ## Reverse Phrase
-<div>Sentence is given. You need to rearrange the words in the reverse order.</div>
+<div>Sentence is given. It is necessary to rearrange the words in the reverse order.</div>
 For example, "program and earn" -> "earn and program".
 
 ---
@@ -264,7 +264,7 @@ For example, [1, 2, 3, 4, 5] -> shift(2) -> [4, 5, 1, 2, 3].
 ---
 # Task № 16
 ## Tic-Tac-Toe
-A square array is given. You need to check that it has winning options for tic-tac-toe.
+A square array is given. It is necessary to check that it has winning options for tic-tac-toe.
 
 ---
 # Task № 17
