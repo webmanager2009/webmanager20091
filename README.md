@@ -177,9 +177,9 @@ Implement a Point class that describes a point in the x, y coordinate system - P
 # Task № 3
 ## Triangle
 Implement the Triangle class. The triangle must be described through points in the coordinate system.
-The triangle object must have methods:
+<div>The triangle object must have methods:</div>
 - boolean exists() - checks if the triangle exists or not
 - double area() - calculates the area of the triangle
-If triangle doesn't exist, you need to throw java.lang.IllegalStateException
+<div>If triangle doesn't exist, you need to throw java.lang.IllegalStateException</div>
 
 ---
