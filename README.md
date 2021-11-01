@@ -237,3 +237,9 @@ For example, ()(()((()))) - true, ()) – false
 <div>For example, [0, 1] - false, [1, 1] - true.</div>
 
 ---
+# Task № 12
+## Sequence Array
+<div>An array of numbers with values 0 and 1 is given. You need to check that the array contains sequences of three or more ones.</div>
+For example, [0, 1, 1] - false, [1, 1, 1] - true
+
+---
