@@ -207,11 +207,11 @@ Implement calculator program. Calculator must perform operations:
 ---
 # Task № 7
 ## Expression
-Implement the Expression class. The class must receive a string from a simple mathematical expression
-and implement methods:
+<div>Implement the Expression class. The class must receive a string from a simple mathematical expression and implement methods:</div>
+
 - double calc().
-- must support operations: + - / * exp.
-For example, "2+2" - 4, "2-2" – 0
-If the expression is not correct, throw java.lang.IllegalStateException
+- must support operations: +. -. /. *. exp.
+<div>For example, "2+2" - 4, "2-2" – 0</div>
+If the expression is not correct, you need to throw java.lang.IllegalStateException
 
 ---
