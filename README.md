@@ -191,3 +191,10 @@ Implement the Triangle class. The triangle must be described through points in t
 <div>Leave the rest of the behavior the same.</div>
 
 ---
+# Task № 5
+## Right Triangle
+<div>Implement the Right Triangle class by inheriting the Triangle class from task № 3.</div>
+<div>Complement the behavior of the method boolean exists() - true if the triangle is rectangular.</div>
+<div>Leave the rest of the behavior the same.</div>
+
+---
