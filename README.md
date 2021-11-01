@@ -165,13 +165,13 @@ Open the program created on Homework № 5 and make the following changes:
 Implement calculator program. Calculator must perform operations:
 - addition, subtraction, multiplication, division, exponentiation.
 <div>When performing division, enter a check for 0.</div>
-<div>If the second argument is 0, you need to throw java.lang.IllegalStateException</div>
+<div>If the second argument is 0, you need to throw java.lang.IllegalStateException.</div>
 
 ---
 # Task № 2
 ## Point
 <div>Implement a Point class that describes a point in the x, y coordinate system - Point (x, y).</div>
-<div>The point object must have methods double Point#distanceTo(Point point) - the method must calculate the distance between two points</div>
+<div>The point object must have methods double Point#distanceTo(Point point) - the method must calculate the distance between two points.</div>
 
 ---
 # Task № 3
@@ -179,9 +179,9 @@ Implement calculator program. Calculator must perform operations:
 <div>Implement a Triangle class. The triangle must be described through points in the coordinate system.</div>
 <div>The triangle object must have methods:</div>
 
-- boolean exists() - checks if the triangle exists or not
-- double area() - calculates the area of the triangle
-<div>If triangle doesn't exist, you need to throw java.lang.IllegalStateException</div>
+- boolean exists() - checks if the triangle exists or not;
+- double area() - calculates the area of the triangle.
+<div>If triangle doesn't exist, you need to throw java.lang.IllegalStateException.</div>
 
 ---
 # Task № 4
@@ -211,8 +211,8 @@ Implement calculator program. Calculator must perform operations:
 
 - double calc().
 - must support operations: +. -. /. *. exp.
-<div>For example, "2+2" - 4, "2-2" – 0</div>
-If the expression is not correct, you need to throw java.lang.IllegalStateException
+<div>For example, "2+2" - 4, "2-2" – 0.</div>
+If the expression is not correct, you need to throw java.lang.IllegalStateException.
 
 ---
 # Task № 8
@@ -228,7 +228,7 @@ Implement a method for counting unique characters in a string.
 # Task № 10
 ## Brackets
 <div>Implement methods for checking the correctness of open and closed parentheses.</div>
-For example, ()(()((()))) - true, ()) – false
+For example, ()(()((()))) - true, ()) – false.
 
 ---
 # Task № 11
@@ -240,6 +240,6 @@ For example, ()(()((()))) - true, ()) – false
 # Task № 12
 ## Sequence Array
 <div>An array of numbers with values 0 and 1 is given. You need to check that the array contains sequences of three or more ones.</div>
-For example, [0, 1, 1] - false, [1, 1, 1] - true
+For example, [0, 1, 1] - false, [1, 1, 1] - true.
 
 ---
