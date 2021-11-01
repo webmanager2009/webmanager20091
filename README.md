@@ -184,3 +184,10 @@ Implement the Triangle class. The triangle must be described through points in t
 <div>If triangle doesn't exist, you need to throw java.lang.IllegalStateException</div>
 
 ---
+# Task № 4
+## Isosceles Triangle
+Implement the Isosceles Triangle class by inheriting the Triangle class from task № 3.
+Complement the behavior of the method boolean exists() - true if the triangle is isosceles.
+Leave the rest of the behavior the same.
+
+---
