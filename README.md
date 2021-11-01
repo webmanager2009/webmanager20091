@@ -212,7 +212,7 @@ Implement calculator program. Calculator must perform operations:
 - double calc().
 - must support operations: +. -. /. *. exp.
 <div>For example, "2+2" - 4, "2-2" – 0.</div>
-If the expression is not correct, you need to throw java.lang.IllegalStateException.
+If the expression is not correct, it is necessary to throw java.lang.IllegalStateException.
 
 ---
 # Task № 8
