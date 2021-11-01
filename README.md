@@ -198,3 +198,10 @@ Implement the Triangle class. The triangle must be described through points in t
 <div>Leave the rest of the behavior the same.</div>
 
 ---
+# Task № 6
+## Square
+<div>Implement the Square class based on the four points Point (x, y).</div>
+
+- boolean exists() - checks if the square exists or not.
+
+---
