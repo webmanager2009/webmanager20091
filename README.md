@@ -267,3 +267,9 @@ For example, [1, 2, 3, 4, 5] -> shift(2) -> [4, 5, 1, 2, 3].
 A square array is given. You need to check that it has winning options for tic-tac-toe.
 
 ---
+# Task № 17
+## Cash Machine
+<div>ATM cash machine of money change is implemented. The machine receives a paper bill and exchanges it for coins.</div>
+The method should return a list of all possible options for changing the bill.
+
+---
