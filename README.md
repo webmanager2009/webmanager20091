@@ -280,3 +280,9 @@ The method should return a list of all possible options for changing the bill.
 Ignore diagonal neighborhood.
 
 ---
+# Task № 19
+## Maze
+<div>A two-dimensional array of ones and zeros is given. It is necessary to find the minimum path from point A to point B.</div>
+You can move only on ones and only vertically or horizontally.
+
+---
