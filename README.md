@@ -220,3 +220,8 @@ If the expression is not correct, you need to throw java.lang.IllegalStateExcept
 Implement a class that computes prime numbers up to N.
 
 ---
+# Task № 9
+## Unique Chars
+Implement a method for counting unique characters in a string.
+
+---
