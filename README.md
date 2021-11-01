@@ -243,3 +243,9 @@ For example, ()(()((()))) - true, ()) – false.
 For example, [0, 1, 1] - false, [1, 1, 1] - true.
 
 ---
+# Task № 13
+## Mono Array
+<div>Numeric array is given. You need to check that all the values in the array are the same.</div>
+For example, [0, 0, 0] - true, [1, 1, 1] - true, [0, 1, 1] - false.
+
+---
