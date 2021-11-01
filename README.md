@@ -262,3 +262,8 @@ For example, "program and earn" -> "earn and program".
 For example, [1, 2, 3, 4, 5] -> shift(2) -> [4, 5, 1, 2, 3].
 
 ---
+# Task № 16
+## Tic-Tac-Toe
+A square array is given. You need to check that it has winning options for tic-tac-toe.
+
+---
