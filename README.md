@@ -176,7 +176,7 @@ Implement calculator program. Calculator must perform operations:
 ---
 # Task № 3
 ## Triangle
-<div>Implement the Triangle class. The triangle must be described through points in the coordinate system.</div>
+<div>Implement a Triangle class. The triangle must be described through points in the coordinate system.</div>
 <div>The triangle object must have methods:</div>
 
 - boolean exists() - checks if the triangle exists or not
@@ -186,32 +186,37 @@ Implement calculator program. Calculator must perform operations:
 ---
 # Task № 4
 ## Isosceles Triangle
-<div>Implement the Isosceles Triangle class by inheriting the Triangle class from task № 3.</div>
+<div>Implement an Isosceles Triangle class by inheriting the Triangle class from task № 3.</div>
 <div>Complement the behavior of the method boolean exists() - true if the triangle is isosceles.</div>
 <div>Leave the rest of the behavior the same.</div>
 
 ---
 # Task № 5
 ## Right Triangle
-<div>Implement the Right Triangle class by inheriting the Triangle class from task № 3.</div>
+<div>Implement a Right Triangle class by inheriting the Triangle class from task № 3.</div>
 <div>Complement the behavior of the method boolean exists() - true if the triangle is rectangular.</div>
 <div>Leave the rest of the behavior the same.</div>
 
 ---
 # Task № 6
 ## Square
-<div>Implement the Square class based on the four points Point (x, y).</div>
+<div>Implement a Square class based on the four points Point (x, y).</div>
 
 - boolean exists() - checks if the square exists or not.
 
 ---
 # Task № 7
 ## Expression
-<div>Implement the Expression class. The class must receive a string from a simple mathematical expression and implement methods:</div>
+<div>Implement an Expression class. The class must receive a string from a simple mathematical expression and implement methods:</div>
 
 - double calc().
 - must support operations: +. -. /. *. exp.
 <div>For example, "2+2" - 4, "2-2" – 0</div>
 If the expression is not correct, you need to throw java.lang.IllegalStateException
+
+---
+# Task № 8
+## Primes
+Implement a class that computes prime numbers up to N.
 
 ---
