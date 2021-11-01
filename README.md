@@ -231,3 +231,9 @@ Implement a method for counting unique characters in a string.
 For example, ()(()((()))) - true, ()) – false
 
 ---
+# Task № 11
+## Array Contains One
+<div>An array of numbers with values 0 and 1 is given. You need to check that all values in the array are equal to 1.</div>
+<div>For example, [0, 1] - false, [1, 1] - true.</div>
+
+---
