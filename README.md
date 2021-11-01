@@ -255,3 +255,10 @@ For example, [0, 0, 0] - true, [1, 1, 1] - true, [0, 1, 1] - false.
 For example, "program and earn" -> "earn and program".
 
 ---
+# Task № 15
+## Cycle Shift
+<div>Numeric array is given. It is necessary to implement the method of ring shift by N: int[] shift().</div>
+<div>Don't use an additional array.</div>
+For example, [1, 2, 3, 4, 5] -> shift(2) -> [4, 5, 1, 2, 3].
+
+---
